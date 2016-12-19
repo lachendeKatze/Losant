@@ -1,0 +1,74 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1482107552567,
+        "modified": 1482107552567,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1482107552567,
+        "modified": 1482107552567,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "j5test0.xdk": {
+        "previousModTime": 1482107552826,
+        "modified": 1482107552826,
+        "seen": true,
+        "name": "j5test0.xdk"
+      },
+      "j5test0.xdke": {
+        "previousModTime": 1482108311984,
+        "modified": 1482108311984,
+        "seen": true,
+        "name": "j5test0.xdke"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1482107552567,
+        "modified": 1482107552567,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1482108366313,
+        "modified": 1482108366313,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1482107552567,
+        "modified": 1482107552567,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1482107552568,
+        "modified": 1482107552568,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1482107552759,
+        "modified": 1482107552759,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1482108366689
+      }
+    }
+  }
+}
